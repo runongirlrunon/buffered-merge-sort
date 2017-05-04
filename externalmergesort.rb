@@ -1,7 +1,5 @@
 #!bin/ruby
 # Created by Lindsey Anne on 5/3/17
-# Note to Professor Kulkarni: This is a mess, I know. Best I could do given my
-# time constraints from work.
 
 CHUNK_SIZE = 4 * 1024 # 4KB page size
 DATA_FILE_NAME = 'age.txt'
